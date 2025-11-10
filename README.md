@@ -2,14 +2,6 @@
 
 A responsive, accessible one‑page CV website built with **Bootstrap 5** and **Google Fonts**.
 
-
-## How to use in Visual Studio Code
-1. Create a new folder (e.g., `cv-website`).
-2. Create the files exactly as shown in the project structure and paste the code from this document into each file.
-3. Drop your **headshot** into `assets/headshot.jpg` and your **resume PDF** into `assets/resume.pdf`.
-4. Open `index.html` in your browser (double‑click) to preview locally.
-
-
 ## Deploy to GitHub Pages
 1. Create a new public repo on GitHub called `cv-website` (or any name).
 2. In VS Code, run:
